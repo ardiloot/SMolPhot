@@ -1,0 +1,132 @@
+<RCC>
+  <qresource prefix="16x16">
+    <file>16x16/Add_16x16.png</file>
+    <file>16x16/Archive_16x16.png</file>
+    <file>16x16/Audio Disk_16x16.png</file>
+    <file>16x16/Burn Disk_16x16.png</file>
+    <file>16x16/Calendar_16x16.png</file>
+    <file>16x16/Cancel_16x16.png</file>
+    <file>16x16/Check_16x16.png</file>
+    <file>16x16/Compact Disk_16x16.png</file>
+    <file>16x16/Copy v2_16x16.png</file>
+    <file>16x16/Copy_16x16.png</file>
+    <file>16x16/Cut_16x16.png</file>
+    <file>16x16/Delete_16x16.png</file>
+    <file>16x16/Download_16x16.png</file>
+    <file>16x16/DVD Disk_16x16.png</file>
+    <file>16x16/Edit_16x16.png</file>
+    <file>16x16/Favorites_16x16.png</file>
+    <file>16x16/Find_16x16.png</file>
+    <file>16x16/Flash Disk_16x16.png</file>
+    <file>16x16/Folder_16x16.png</file>
+    <file>16x16/Forward_16x16.png</file>
+    <file>16x16/Globe_16x16.png</file>
+    <file>16x16/Hard Disk_16x16.png</file>
+    <file>16x16/Help_16x16.png</file>
+    <file>16x16/Information_16x16.png</file>
+    <file>16x16/Key_16x16.png</file>
+    <file>16x16/Log Out_16x16.png</file>
+    <file>16x16/Mail_16x16.png</file>
+    <file>16x16/Negative_16x16.png</file>
+    <file>16x16/New_16x16.png</file>
+    <file>16x16/Next_16x16.png</file>
+    <file>16x16/Open_16x16.png</file>
+    <file>16x16/Paste_16x16.png</file>
+    <file>16x16/Pause_16x16.png</file>
+    <file>16x16/Picture_16x16.png</file>
+    <file>16x16/Play_16x16.png</file>
+    <file>16x16/Positive_16x16.png</file>
+    <file>16x16/Presentation_16x16.png</file>
+    <file>16x16/Preview_16x16.png</file>
+    <file>16x16/Previous_16x16.png</file>
+    <file>16x16/Print_16x16.png</file>
+    <file>16x16/Properties_16x16.png</file>
+    <file>16x16/Redo_16x16.png</file>
+    <file>16x16/Refresh_16x16.png</file>
+    <file>16x16/Remove_16x16.png</file>
+    <file>16x16/Rename_16x16.png</file>
+    <file>16x16/Save_16x16.png</file>
+    <file>16x16/Search_16x16.png</file>
+    <file>16x16/Send_16x16.png</file>
+    <file>16x16/Settings_16x16.png</file>
+    <file>16x16/Stock Index Down_16x16.png</file>
+    <file>16x16/Stock Index Up_16x16.png</file>
+    <file>16x16/Stop_16x16.png</file>
+    <file>16x16/Synchronize_16x16.png</file>
+    <file>16x16/Zoom In_16x16.png</file>
+    <file>16x16/Zoom Out_16x16.png</file>
+    <file>16x16/Text Document_16x16.png</file>
+    <file>16x16/Undo_16x16.png</file>
+    <file>16x16/Upload_16x16.png</file>
+    <file>16x16/User_16x16.png</file>
+  </qresource>
+  <qresource prefix="special">
+    <file>special/bar_chart.png</file>
+    <file>special/camera-glow-icon.png</file>
+    <file>special/Laser-WIP-icon.png</file>
+    <file>special/reruncalibration.png</file>
+    <file>special/prism.png</file>
+  </qresource>
+  <qresource prefix="48x48">
+    <file>48x48/Barcode-Scanner-48.png</file>
+    <file>48x48/Add_48x48.png</file>
+    <file>48x48/Archive_48x48.png</file>
+    <file>48x48/Audio Disk_48x48.png</file>
+    <file>48x48/Burn Disk_48x48.png</file>
+    <file>48x48/Calendar_48x48.png</file>
+    <file>48x48/Cancel_48x48.png</file>
+    <file>48x48/Check_48x48.png</file>
+    <file>48x48/Compact Disk_48x48.png</file>
+    <file>48x48/Copy v2_48x48.png</file>
+    <file>48x48/Copy_48x48.png</file>
+    <file>48x48/Cut_48x48.png</file>
+    <file>48x48/Delete_48x48.png</file>
+    <file>48x48/Download_48x48.png</file>
+    <file>48x48/DVD Disk_48x48.png</file>
+    <file>48x48/Edit_48x48.png</file>
+    <file>48x48/Favorites_48x48.png</file>
+    <file>48x48/Find_48x48.png</file>
+    <file>48x48/Flash Disk_48x48.png</file>
+    <file>48x48/Folder_48x48.png</file>
+    <file>48x48/Forward_48x48.png</file>
+    <file>48x48/Globe_48x48.png</file>
+    <file>48x48/Hard Disk_48x48.png</file>
+    <file>48x48/Help_48x48.png</file>
+    <file>48x48/Information_48x48.png</file>
+    <file>48x48/Key_48x48.png</file>
+    <file>48x48/Log Out_48x48.png</file>
+    <file>48x48/Mail_48x48.png</file>
+    <file>48x48/Negative_48x48.png</file>
+    <file>48x48/New_48x48.png</file>
+    <file>48x48/Next_48x48.png</file>
+    <file>48x48/Open_48x48.png</file>
+    <file>48x48/Paste_48x48.png</file>
+    <file>48x48/Pause_48x48.png</file>
+    <file>48x48/Picture_48x48.png</file>
+    <file>48x48/Play_48x48.png</file>
+    <file>48x48/Positive_48x48.png</file>
+    <file>48x48/Presentation_48x48.png</file>
+    <file>48x48/Preview_48x48.png</file>
+    <file>48x48/Previous_48x48.png</file>
+    <file>48x48/Print_48x48.png</file>
+    <file>48x48/Properties_48x48.png</file>
+    <file>48x48/Redo_48x48.png</file>
+    <file>48x48/Refresh_48x48.png</file>
+    <file>48x48/Remove_48x48.png</file>
+    <file>48x48/Rename_48x48.png</file>
+    <file>48x48/Save_48x48.png</file>
+    <file>48x48/Search_48x48.png</file>
+    <file>48x48/Send_48x48.png</file>
+    <file>48x48/Settings_48x48.png</file>
+    <file>48x48/Stock Index Down_48x48.png</file>
+    <file>48x48/Stock Index Up_48x48.png</file>
+    <file>48x48/Stop_48x48.png</file>
+    <file>48x48/Synchronize_48x48.png</file>
+    <file>48x48/Zoom In_48x48.png</file>
+    <file>48x48/Zoom Out_48x48.png</file>
+    <file>48x48/Text Document_48x48.png</file>
+    <file>48x48/Undo_48x48.png</file>
+    <file>48x48/Upload_48x48.png</file>
+    <file>48x48/User_48x48.png</file>
+  </qresource>
+</RCC>

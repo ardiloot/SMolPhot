@@ -1,0 +1,71 @@
+---
+version: 1
+disable_existing_loggers: False
+formatters:
+  simple:
+      format: "%(asctime)s %(name)-12s %(levelname)-8s %(message)s"
+      datefmt: "%Y-%m-%d %H:%M:%S"
+handlers:
+    console:
+        class: logging.StreamHandler
+        level: DEBUG
+        formatter: simple
+        stream: ext://sys.stderr
+
+    info_file_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO            
+        formatter: simple
+        filename: info.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 3
+        encoding: utf8
+
+    error_file_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: ERROR            
+        formatter: simple
+        filename: errors.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 3
+        encoding: utf8
+
+loggers:
+        
+    SMolPhot.Frame:
+        level: INFO
+
+    SMolPhot.FrameSeries:
+        level: INFO
+        
+    SMolPhot.GroundTruths:
+        level: WARN
+
+    SMolPhot.GroundTruthStatsLibrary:
+        level: WARN
+
+    SMolPhot.GroundTruthStatsPy:
+        level: WARN        
+
+    SMolPhot.AxialCalibrators:
+        level: WARN
+        
+    SMolPhot.Publishing:
+        level: INFO
+
+    SMolPhot.Preprocessors:
+        level: INFO
+
+    SMolPhot.Postprocessor:
+        level: INFO
+
+    SMolPhot.PSFs.GaussianPsf:
+        level: WARN
+
+    SMolPhot.Localizers:
+        level: WARN
+root:
+    level: DEBUG
+    handlers: [console, info_file_handler, error_file_handler]
+
+...
