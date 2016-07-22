@@ -465,8 +465,7 @@ class MainWindow(QtGui.QMainWindow):
     
     def _GuiSetEnabled(self, enabled):
         self._tabWidget.setEnabled(enabled)
-        self.ui.parametersTree.setEnabled(enabled)
-        self.ui.parametersTree.setEnabled(enabled)
+        #self.ui.parametersTree.setEnabled(enabled)
 
 def Run():
     loggingDir = appdirs.user_log_dir(APPNAME, APPAUTHOR)
