@@ -18,3 +18,5 @@ SMolPhot is an open-source operating system independent data analysis and visual
 * User Manual and getting started: [User manual](https://github.com/ardiloot/SMolPhot/wiki/User-manual)
 * Source code: [Source](https://github.com/ardiloot/SMolPhot)
 * Downloads: [Downloads](https://github.com/ardiloot/SMolPhot/releases)
+
+![SMolPhot](https://github.com/ardiloot/SMolPhot/wiki/images/gui_ER1.LD-2D.png)
