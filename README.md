@@ -2,6 +2,8 @@
 
 SMolPhot is an open-source operating system independent data analysis and visualization software package for data acquired by single molecule localization microscopy methods such as photo-activation localization microscopy. SMolPhot is written in python which make it platform independent and easy to develop open source software package.
 
+This software is developed by the scientists of University of Tartu (see ![team](#Team)) for the Single-Molecule Localization Microscopy Software Challenge 2016 (![website](http://bigwww.epfl.ch/smlm/challenge2016/index.html)). For the results of the competition see the local ![news](http://www.ut.ee/en/news/ut-scientists-defeated-harvard-university-international-competition) and the ![webpage of the competition](http://bigwww.epfl.ch/smlm/challenge2016/index.html?p=results).
+
 # Main features
 
 * Easy to use: one click installer for most operating systems (Windows, Linux, Mac) 
@@ -20,3 +22,10 @@ SMolPhot is an open-source operating system independent data analysis and visual
 * Downloads: [Downloads](https://github.com/ardiloot/SMolPhot/releases)
 
 ![SMolPhot](https://github.com/ardiloot/SMolPhot/wiki/images/gui_ER1.LD-2D.png)
+
+# Team
+* Ardi Loot
+* Andreas Valdmann
+* Marko Eltermann
+* Mihkel Kree
+* Martti Pärs
