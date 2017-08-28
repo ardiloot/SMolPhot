@@ -1,6 +1,6 @@
 # About
 
-SMolPhot is an open-source operating system independent data analysis and visualization software package for data acquired by single molecule localization microscopy methods such as photo-activation localization microscopy. SMolPhot is written in python which make it platform independent and easy to develop open source software package. See also our web-page [www.molphot.com](http://www.molphot.com).
+SMolPhot is an open-source operating system independent data analysis and visualization software package for data acquired by single molecule localization microscopy methods such as photo-activation localization microscopy. SMolPhot is written in python which make it platform independent and easy to develop open source software package.
 
 # Main features
 
